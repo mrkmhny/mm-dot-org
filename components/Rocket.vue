@@ -56,8 +56,8 @@ export default {
 
   #window {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 14px;
+    height: 14px;
     background: #BE2E6B;
     border-radius: 50%;
     margin: 12% auto;

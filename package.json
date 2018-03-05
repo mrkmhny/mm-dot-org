@@ -5,7 +5,8 @@
     },
     "dependencies": {
         "normalize.css": "^8.0.0",
-        "nuxt": "^1.4.0"
+        "nuxt": "^1.4.0",
+        "vue-meta": "^1.4.3"
     },
     "devDependencies": {
         "node-sass": "^4.7.2",
